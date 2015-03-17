@@ -11,11 +11,14 @@ PHP package that allows you to render a form field in a form  and then verify th
 
 ## Install
 
-Via Composer
+- [Recaptcha on Packagist](https://packagist.org/packages/htmlwebfan/nocaptcha)
+- [Recaptcha on GitHub](https://github.com/htmlwebfan/nocaptcha)
 
-``` bash
-$ composer require htmlwebfan/nocaptcha
-```
+To get the latest version of nocaptcha simply require it in your `composer.json` file.
+
+"htmlwebfan/nocaptcha": "dev-master"
+
+You'll then need to run `composer install` to download it and have the autoloader updated.
 
 ## Usage
 
@@ -92,3 +95,5 @@ If you discover any security related issues, please email nocaptcha@htmlwebfan.c
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[![Support via PayPal](https://raw.githubusercontent.com/htmlwebfan/resources/master/paypal-donate.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CG2GCCE6K859A)
