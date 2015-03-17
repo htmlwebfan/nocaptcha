@@ -1,7 +1,7 @@
 {
     "name": "htmlwebfan/nocaptcha",
     "description": "Generates and verifies a NoCaptcha field in forms HTML forms with PHP.",
-    "keywords": ["nocaptcha, html, form, robot, spam, turing test, recaptcha, spamprevention, antispam"],
+    "keywords": ["nocaptcha", "html", "form", "robot", "spam", "turingtest", "recaptcha", "spamprevention", "antispam"],
     "homepage": "https://github.com/htmlwebfan/nocaptcha",
     "license": "MIT",
     "authors": [
