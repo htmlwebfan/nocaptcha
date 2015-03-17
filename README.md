@@ -7,7 +7,11 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/htmlwebfan/nocaptcha.svg?style=flat-square)](https://scrutinizer-ci.com/g/htmlwebfan/nocaptcha)
 [![Total Downloads](https://img.shields.io/packagist/dt/league/nocaptcha.svg?style=flat-square)](https://packagist.org/packages/league/nocaptcha)
 
-PHP package that allows you to render a form field in a form  and then verify the response from Google on your server. The package supports psr-4.
+Are you a robot? Introducing "No Captcha reCaptcha".
+
+This PHP package allows you to render a form field in a form and then verify the response from Google on your server. The package supports psr-4.
+
+[![reCAPTCHA from Google](https://www.google.com/recaptcha/intro/images/hero-recaptcha-demo.gif)](https://www.google.com/recaptcha/intro/index.html)
 
 ## Install
 
@@ -22,7 +26,7 @@ You'll then need to run `composer install` to download it and have the autoloade
 
 ## Usage
 
-### Usage
+### Overview
 
 1. Configure NoCaptcha
 2. Display the nocaptcha filed on the form
