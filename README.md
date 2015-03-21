@@ -77,12 +77,6 @@ $nobot->debug()
 
 ```
 
-## Testing
-
-``` bash
-$ phpunit
-```
-
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
