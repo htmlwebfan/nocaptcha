@@ -23,10 +23,5 @@
         "psr-4": {
             "HtmlWebFan\\Test\\": "tests"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "master": "1.0.0-dev"
-        }
     }
 }
