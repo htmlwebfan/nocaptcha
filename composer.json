@@ -4,6 +4,7 @@
     "keywords": ["nocaptcha", "html", "form", "robot", "spam", "turingtest", "recaptcha", "spamprevention", "antispam"],
     "homepage": "https://github.com/htmlwebfan/nocaptcha",
     "license": "MIT",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Matthew Way",
