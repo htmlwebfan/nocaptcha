@@ -2,7 +2,7 @@
 
 [![Latest Version](https://img.shields.io/github/release/htmlwebfan/nocaptcha.svg?style=flat-square)](https://github.com/htmlwebfan/nocaptcha/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/nocaptcha.svg?style=flat-square)](https://packagist.org/packages/htmlwebfan/nocaptcha)
+[![Total Downloads](https://img.shields.io/packagist/dt/league/nocaptcha.svg?style=flat-square)](https://packagist.org/packages/htmlwebfan/nocaptcha/stats)
 
 Are you a robot? Introducing "No Captcha reCaptcha".
 
