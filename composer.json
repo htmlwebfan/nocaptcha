@@ -18,10 +18,5 @@
         "psr-4": {
             "HtmlWebFan\\": "src"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "HtmlWebFan\\Test\\": "tests"
-        }
     }
 }
