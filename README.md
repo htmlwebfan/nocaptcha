@@ -89,9 +89,3 @@ If you discover any security related issues, please email nocaptcha@htmlwebfan.c
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Support
-
-If you find this code beneficial, you can contribute here:
-
-[![Support via PayPal](https://raw.githubusercontent.com/htmlwebfan/resources/master/paypal-donate.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VFP8YNMR6S34S)
